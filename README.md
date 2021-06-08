@@ -1,1 +1,2 @@
-# RACING__BOO
+# synchronousBallMovement
+Ball moving synchronously
